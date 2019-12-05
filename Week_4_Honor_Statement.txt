@@ -1,0 +1,1 @@
+%I have attempted all practice problems from week 4 (Lecture 6 Programming Structures)
